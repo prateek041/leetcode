@@ -1,6 +1,8 @@
+package dayone;
+
 import java.util.HashSet;
 
-public class Main {
+public class ContainsDuplilcate {
     public static void main(String[] args) {
         System.out.println("Hello world");
     }
